@@ -1,0 +1,15 @@
+strings:
+  inputs: SzakdolgozatCryptoApp/Resources/Strings/Input/Strings.strings
+  outputs:
+    params:
+        enumName: Strings
+    templateName: structured-swift5
+    output: SzakdolgozatCryptoApp/Resources/Strings/Generated/Strings.swift
+#xcassets:
+#  inputs:
+#    - Resources/Images.xcassets
+#    - Resources/MoreImages.xcassets
+#    - Resources/Colors.xcassets
+#  outputs:
+#    - templateName: swift5
+#      output: Generated/Assets.swift

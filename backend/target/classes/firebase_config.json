@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "onlabcryptoapp",
+  "private_key_id": "fb8efc22102718a2778e5e9e35ab0ed2ce22726b",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQCjJFynX5XBfqnF\nJRt8su/9VsJqpYYSbZL3FBGOCC4MHv/AanULfO/CP3p9fxuqUZm5VM1GdPubsr/K\nABbi+cqfxNVF5ojhEwdOMQ+HUeH7qUMNU1QiPNR+/K57+RMGESnxFpzDF61plCkb\nwVldMmG3dJ/xfYvCz7kQFObXuKavejfQwu7AinJfF2ZETFlWNtcx9JVAZs951Njo\nLJ6iWBpf8FQjQlcCJrMfLAIkuxJPRMWLGol+aPeOxkqx7FH7eZ0eLUHtko9Z8St7\nDiF3YqEilGfQFXl6BZ1eGS9E02mj5DfiyGpe/ZujF7zxodA2vSYgVZ+AHhhnIikw\nrhReG3TJAgMBAAECggEACk/4xgu2ElkeBNGSVJDrDVSNTY3Q/8aKt7DpEIABM9BH\nJ7PoWiWM8kvDmRM5KHb9WfMRAWx7oHKYH6i0dFHd4Q420l2pjAYBPDbAXd7Ag4FG\nNR1uAAwK/Uvzq5p+/VnbENuhD86mA4/TWWcgwvy1ozxtWn0udyNc9gtG3ElWdVkR\nQAO2jyWjZrhoIsCj560mh05Krh7S4lUKhp9QWy0D2301ZoIh1IZDbyJLEORvUJRC\nkWn5lWKU2/4EL0tYt8MtGr++OEa6VODXYvgoilfTBrLni+6Ei6ClqEStoy3mjSDK\naBbLNZ3TpDjnm1lpenuSt8kNMibk6RA4nInCQjX2UQKBgQDMqYj0i1RJ9+NyQUI6\n5dsxjcG65NjJuSvCDq7UcGokoQhrUNa8LEXwNvUDtPpYIOrs0ogD1TQca43616y9\nsa2XT5Fs0eKa7nBWjtX90HAauP/ZjsPP92Yg0536RvMkR5zasw472lCNH+7Gc7qz\nJLQ+ijPvNhvOAk1LgLuJoTfnbwKBgQDMEJdA+Q0h9EY7qiuSWTjnsZQJypy1gt6C\npHr4GYnT7ssuYWdhvJO5l7DiY+s65rGmRkHrdTSNcfnto7tq5hsmeyxK7mTlnP25\nvoS20bAHx+KcASu7LMbKrUWykeKixggdHImcvKPqYRjoDptslnXWpx5/OywfYvLr\nPEii4Z+LRwKBgQCBve/uZu02PwlXAvvDbre4AE+R9UVhDBwrVzeJwQHo2pUFwyd9\n/usPTyegA/i4KZYEL6q+E0iHw78sB9GgJ6UOSQi93Yg0A3f/x2jtEFgg+Kpo9tI3\nYnTB1qVNZfD5TNSo593cH5f0/wtVj0QKEPiatO4bdUfHHzp05NT+eM+BzQKBgBJl\nXH1K9lgdQUeXq53h1TNt2r6XOVFTnuOAGGXNR5OHb2Ga/krdSSPt/NAr2cTRjypC\nIycqxbYKlFFL9VVJsSDi8bc/jnD0mhroheZFOO06o78Ui/CvtKwIusPCSwAJgim9\nrNooV06Fuk0RJAnB9pWHM0Sc/PlHXka+hH3KgSt5AoGBAJB4YFprqmOlRtYja9Ta\nlLdpyLst9UPwl9nJcH1N3HRfmsDA09+1KM2N1BWspyZk23J1C8XIoNY7kfuodEuy\nv8t7asAebunr5koqBwhpDq0GTb6arqt4jZSob8QnPMGpTmpBKplk9uP9cOA3v3jv\nwKw7UcH3W8MDFESjoEKQFfoa\n-----END PRIVATE KEY-----\n",
+  "client_email": "firebase-adminsdk-5ur9l@onlabcryptoapp.iam.gserviceaccount.com",
+  "client_id": "103612625388161993217",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/firebase-adminsdk-5ur9l%40onlabcryptoapp.iam.gserviceaccount.com"
+}
