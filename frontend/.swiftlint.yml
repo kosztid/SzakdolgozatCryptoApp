@@ -129,7 +129,7 @@ flatmap_over_map_reduce:
 for_where:
   severity: error
 closure_body_length:
-    warning: 30
+    warning: 35
 function_body_length:
   warning: 30
   error: 40
