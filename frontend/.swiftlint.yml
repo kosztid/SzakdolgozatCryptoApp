@@ -131,7 +131,7 @@ for_where:
 closure_body_length:
     warning: 35
 function_body_length:
-  warning: 30
+  warning: 35
   error: 40
 function_parameter_count:
   warning: 4
